@@ -1,0 +1,4 @@
+customer,invoice_amount,status
+ABC Company,1000,unpaid
+XYZ Ltd,2500,unpaid
+Test Store,750,paid
