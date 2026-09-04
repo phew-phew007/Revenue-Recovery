@@ -49,7 +49,7 @@ Updated Metrics
 Audit Trail
 
 3. 🏗️ Architecture
-4. 
+
 React + Vite
       ↓
    REST API
