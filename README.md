@@ -27,13 +27,13 @@ A useful revenue recovery system should answer:
 
 ---
 
-## 🤖 AI Recovery Agent
+1. AI RECOVERY AGENT
+ follows this agent-style workflow:
 
-The prototype follows an agent-style workflow:
-
-```text
 Detect → Diagnose → Decide → Execute → Measure → Record
+
 2. 🔄 How the Prototype Works
+
 CSV Upload
    ↓
 Risk Analysis
@@ -47,7 +47,9 @@ Execute Recovery
 Updated Metrics
    ↓
 Audit Trail
+
 3. 🏗️ Architecture
+4. 
 React + Vite
       ↓
    REST API
